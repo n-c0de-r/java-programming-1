@@ -1,11 +1,3 @@
-/*
- * Programmierung 1 (PCÜ)
- * Pflichtaufgabe Nr. 4
- * Dozentin: Prof. Dr. Adrianna Alexander
- * Tutor: Tom Thiede
- * Student: Tomas Proano (589661)
- */
-
 public class Primfaktoren {
 
 	
