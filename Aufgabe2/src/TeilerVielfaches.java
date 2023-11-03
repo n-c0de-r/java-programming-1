@@ -1,11 +1,6 @@
-/*
- * Pflichtaufgabe Nr. 2
- */
-
 public class TeilerVielfaches {
 	
 	// 2.1 ggTrekursiv
-	
 	
 	//Berechnet den ggT von zwei Zahlen, die als Parameter eingebeben werden. 
 
