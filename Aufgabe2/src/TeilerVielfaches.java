@@ -1,9 +1,5 @@
 /*
- * Programmierung 1 (PCÜ)
  * Pflichtaufgabe Nr. 2
- * Dozentin: Prof. Adrianna Alexander
- * Tutor: Tom Thiede
- * Student: Tomas Proano (S0589661)
  */
 
 public class TeilerVielfaches {
